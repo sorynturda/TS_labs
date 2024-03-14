@@ -1,0 +1,13 @@
+%%
+clear all
+close all
+clc
+G = tf([1],[1 2 2])
+figure
+step(G,10)
+hold on;
+t=0:0.2:10;
+yi = exp(-t)sin(t);
+ys=1/2*(1-exp(-t)*cos(t)-exp(-t)*cost(t));
+plot(t, ys, '*r')
+%plot(t, yi, '*r')
