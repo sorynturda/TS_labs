@@ -1,0 +1,4 @@
+root horvits? de facut ex 5 pe foaie
+
+la ultima problema se aplica laplace
+din sistem neliniar se trece in sistem liniar : z1 in partea stanga
