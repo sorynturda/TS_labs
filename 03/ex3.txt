@@ -1,0 +1,8 @@
+1d
+2f
+3a
+4e
+5c
+6b
+7g - k = 1 se stabilizeaza
+8h - k = 2 se stabilizeaza
